@@ -1,24 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="95fe439a-d598-40d6-8b15-c46591085791" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Publication/Apres Assistanat/GRSL2014.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Publication/Apres Assistanat/ICIAR2014.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Publication/Apres Assistanat/JISRS.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Publication/Apres Assistanat/Taima2015.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Publication/Avant Assistanat/DICTAP2012.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Publication/Avant Assistanat/EGC2013.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Publication/Avant Assistanat/ICARCV2012.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Publication/Avant Assistanat/ICIAR2012.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Publication/Avant Assistanat/Taima2009.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Publication/Rapport Master Aymen Sellaouti.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Publication/These Aymen Sellaouti.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/DBLP.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/IEEExplore.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Photo-Aymen.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pdf-sml.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="95fe439a-d598-40d6-8b15-c46591085791" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +12,7 @@
     <session id="-1683729036">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -43,6 +27,16 @@
           <entry key="HTML" value="1" />
         </counts>
       </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="txt" value="32" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="32" />
+        </counts>
+      </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
@@ -50,8 +44,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="606">
-              <caret line="1414" column="23" selection-start-line="1414" selection-start-column="21" selection-end-line="1414" selection-end-column="23" />
+            <state relative-caret-position="202">
+              <caret line="1561" column="29" selection-start-line="1561" selection-start-column="29" selection-end-line="1561" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -65,6 +59,7 @@
     <replaceStrings>
       <replace>Publication</replace>
       <replace>images</replace>
+      <replace>Matieres</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -134,12 +129,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1535977261290</updated>
-      <workItem from="1535977262746" duration="755000" />
+      <workItem from="1535977262746" duration="1469000" />
     </task>
+    <task id="LOCAL-00001" summary="add folders and update paths">
+      <created>1535978178502</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1535978178502</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="755000" />
+    <option name="totallyTimeSpent" value="1469000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -150,7 +153,7 @@
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" weight="0.3286119" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -166,10 +169,10 @@
     </layout>
     <layout-to-restore>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.24966443" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.24966443" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="1" visible="true" weight="0.3286119" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="1" visible="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="4" />
@@ -192,11 +195,15 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add folders and update paths" />
+    <option name="LAST_COMMIT_MESSAGE" value="add folders and update paths" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="606">
-          <caret line="1414" column="23" selection-start-line="1414" selection-start-column="21" selection-end-line="1414" selection-end-column="23" />
+        <state relative-caret-position="202">
+          <caret line="1561" column="29" selection-start-line="1561" selection-start-column="29" selection-end-line="1561" selection-end-column="29" />
         </state>
       </provider>
     </entry>
