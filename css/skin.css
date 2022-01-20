@@ -70,7 +70,7 @@ body {
 }
 #sidebar.sbright .sidebar-nav {
  
-  background: #ee5f5b;
+  background: #555;
   border-left: 5px solid #303050;
   border-right: none;
 }
@@ -84,7 +84,7 @@ body {
 }
 .section .section-title {
   color: #fff;
-  background-color: #ee5f5b;
+  background-color: #555;
   border-right: 5px solid #303050;
 }
 .section .section-title .glyphicons i:before {
